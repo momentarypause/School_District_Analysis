@@ -6,14 +6,18 @@ The purpose of this analysis is to address the possibility of academic dishonest
 ## Results
 ### District Summary
 INSERT DISTRICT SUMMARY PICTURES
-### School Summary
-Whenever you make a sample size smaller, the values in it carry more weight so the expectation is that the overall scores will change, as we can see in the above chart.
+
+There were no significant changes between the original and altered averages over all schools.  Being that Thomas High School freshmen make up 1% of the total district student population, ommitting their scores made only a minor difference.  The district average scores were each reduced by less than 1%.
+
+### School Summary / Effect on Math and Reading Scores
+INSERT THOMAS STATS
+
+Whenever a sample size is reduced, the values in it carry more weight, so the expectation is that the overall scores will change, as we can see in the above chart.  They did not change by much within Thomas High School, though.  This indicates that the scores were not outliers in the dataset and that they were close to the averages of the other grades calculated.  Omitting the 9th grade scores reduced the school averages by less than 0.5% for math, reading, and passing averages for both.
+
 ### Performance Compared to Other Schools
 INSERT SCHOOL SUMMARY PICS
 
 Removing the 9th grade scores may have changed Thomas High School's overall scores within their school, but it did not alter their position in a ranking of all schools from highest overall passing scores to lowest. Thomas High still ranks 2nd among all 15 schools.  Had the 9th grade scores been significantly higher than the rest of the school, the expectation would be that the recalculated scores would have dropped much more than they did and, consequently, for Thomas High School to drop in ranking.  This did not happen.
-
-### Effect on Math and Reading Scores
 
 ### Comparison Based on School Spending
 
