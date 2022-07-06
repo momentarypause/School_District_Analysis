@@ -12,7 +12,7 @@ The purpose of this analysis is to address the possibility of academic dishonest
 
 ## Results
 ### District Summary
-INSERT DISTRICT SUMMARY PICTURES
+[School District Summaries](Images/District_Summaries.png)
 
 There were no significant changes between the original and altered averages over all schools.  Being that Thomas High School freshmen make up 1% of the total district student population, ommitting their scores made only a minor difference.  The district average scores were each reduced by less than 1%.
 
@@ -42,7 +42,7 @@ INSERT SCORES BY TYPE
 Finally, scores based on charter or district schools were similarly minutely affected.
 
 ## Summary
-Thomas High School's scores did not change significantly when 461 freshman scores were nullified and the rest were recalculated.  That means that the 9th grade scores were not skewed enough to push the averages and that they were close to the averages of the rest of the grades.  This does not mean they were not tampered with, it means they were not significantly different enough to affect the scores as a whole.
+Thomas High School's scores did not change significantly when 461 freshman scores were nullified and the rest were recalculated.  That means that the 9th grade scores were not skewed enough to push the averages and that they were close to the averages of the rest of the grades.  This does not mean they were *not* tampered with, it means they were not significantly different enough to affect the scores as a whole.
 
 As making the 9th grade scores null did not significantly affect the data, this method to determine academic honesty regarding Reading and Math test scores at Thomas High School is inconclusive.  There is not enough evidence to determine whether the scores were or were not tampered with.
 
