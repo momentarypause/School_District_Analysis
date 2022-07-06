@@ -3,6 +3,13 @@
 ## Overview
 The purpose of this analysis is to address the possibility of academic dishonesty on standardized testing for Py City Schools. There is suspicion that the scores have been altered for Thomas High School 9th graders so this report explores what the data would look like if all 9th grade scores from Thomas High School were nullified and the remaining scores recalculated.  Only the raw scores have been considered in this report. No other context into the situation was given.
 
+### Thomas High School Demographics
+* School Type: Charter
+* Total Students: 1635 (Medium-size category)
+* Spending Per Student: $638 (Upper-Mid Spending Tier)
+* Rank: 2nd based on Overall Passing Score
+
+
 ## Results
 ### District Summary
 INSERT DISTRICT SUMMARY PICTURES
@@ -20,13 +27,22 @@ INSERT SCHOOL SUMMARY PICS
 Removing the 9th grade scores may have changed Thomas High School's overall scores within their school, but it did not alter their position in a ranking of all schools from highest overall passing scores to lowest. Thomas High still ranks 2nd among all 15 schools.  Had the 9th grade scores been significantly higher than the rest of the school, the expectation would be that the recalculated scores would have dropped much more than they did and, consequently, for Thomas High School to drop in ranking.  This did not happen.
 
 ### Comparison Based on School Spending
+INSERT PER STUDENT SPENDING RANGES
+
+Following the same pattern, altered scores for Thomas High School did not affect the overall for their upper-mid spensing range category.  The scores for their tier were affected by such a small margin, I was unable to discern a difference with scores formatted to the tenths place.  Unformatted scores were used to show there is a difference in the $631-$645 range.
 
 ### Comparison based on Size
+INSERT SCORES BY SIZE
+
+The same issue was present with comparing scores by size as it was when scores by spending bin were compared: there is such a minute difference in the Medium-sized school range, the data before formatting was used to show that there is a difference.  Again, the difference is negligible in this case.
 
 ### Comparison based on School Type
+INSERT SCORES BY TYPE
+
+Finally, scores based on charter or district schools were similarly minutely affected.
 
 ## Summary
-Thomas High School's scores did not change significantly when 461 freshman scores werenullified and the rest were recalculated.  That means that the 9th grade scores were not skewed enough to push the averages and that the 9th grade scores were close to the averages of the rest of the grades.  This does not mean they were not tampered with, it means they were not significantly different enough to affect the scores as a whole.
+Thomas High School's scores did not change significantly when 461 freshman scores were nullified and the rest were recalculated.  That means that the 9th grade scores were not skewed enough to push the averages and that they were close to the averages of the rest of the grades.  This does not mean they were not tampered with, it means they were not significantly different enough to affect the scores as a whole.
 
 As making the 9th grade scores null did not significantly affect the data, this method to determine academic honesty regarding Reading and Math test scores at Thomas High School is inconclusive.  There is not enough evidence to determine whether the scores were or were not tampered with.
 
